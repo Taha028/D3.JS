@@ -1,3 +1,6 @@
+// just change the name of csv file 
+// this code contain barchart with different color, tooltip, color legend with axis
+
 <!DOCTYPE html>
 <html>
 <head>
