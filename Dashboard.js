@@ -1,3 +1,5 @@
+// this dashboard contains bar and piechart 
+
 <!DOCTYPE html>
 <html>
 <head>
